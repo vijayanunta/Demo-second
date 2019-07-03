@@ -4,8 +4,8 @@
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
-  "scope": "/ai/",
-  "start_url": "/ai/",
+  "scope": "/Demo-second/",
+  "start_url": "/Demo-second/",
   "icons": [
     {
       "src": "assets/images/anunta-192x192.png",
